@@ -6,3 +6,6 @@ jsprojectpractice
 ## 2. Toast Notification
 [live demo](https://codepen.io/kum9748ar/full/YzERwwY)
 
+## 3. Auto Write Text 
+[live demo](https://codepen.io/kum9748ar/full/podQRXm)
+
