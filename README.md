@@ -22,3 +22,6 @@ jsprojectpractice
 
 [live demo](https://codepen.io/kum9748ar/full/yLPQzmj)
 
+## 6. Background-color Changer 
+
+[live demo](https://codepen.io/kum9748ar/full/GROPqxW)
