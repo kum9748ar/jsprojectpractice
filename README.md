@@ -25,3 +25,7 @@ jsprojectpractice
 ## 6. Background-color Changer 
 
 [live demo](https://codepen.io/kum9748ar/full/GROPqxW)
+
+## 7. Toggle Dark Mode
+
+[live demo](https://codepen.io/kum9748ar/full/gOXZwWK)
