@@ -29,3 +29,6 @@ jsprojectpractice
 ## 7. Toggle Dark Mode
 
 [live demo](https://codepen.io/kum9748ar/full/gOXZwWK)
+
+## 8. Carousel 
+[live demo](https://codepen.io/kum9748ar/full/RwjEKKa)
